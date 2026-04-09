@@ -1,4 +1,3 @@
-// ============================================================
 // car_detect: Moore FSM detecting enter/exit sequences
 //
 // Inputs:  clk, reset, outer, inner

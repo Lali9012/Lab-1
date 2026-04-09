@@ -2,7 +2,7 @@
 //
 // Inputs:  clk, reset, incr, decr
 // Output:  count [4:0]  (holds values 0 to 18)
-// ============================================================
+
 module car_counter (
     input  logic       clk, reset,
     input  logic       incr, decr,
